@@ -1,0 +1,4 @@
+root:$1$/avpfBJ1$x0z8w5UF9Iv./DR9E9Lid.
+msfadmin:$1$XN10Zj2c$Rt/zzCW3mLtUWA.ihZjA5/
+user:$1$HESu9xrH$k.o3G93DGoXIiQKkPmUgZ0
+
