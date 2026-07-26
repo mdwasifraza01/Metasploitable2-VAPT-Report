@@ -35,7 +35,7 @@ Root-level access (`uid=0`) was obtained via all of the following methods:
 
 ## 📄 Full Report Deliverable
 The full PDF version of this report is available in the repository:
-👉 [**Download Full VAPT Report PDF**](./Metasploitable2_VAPT_Report.pdf)
+👉 [**Download Full VAPT Report PDF**](./Metasploitable2_VAPT_Report.pdf?raw=true)
 
 ---
 
